@@ -31,7 +31,7 @@ body {
 
 .app__stats {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between;;
 }
 
 .app__left {
